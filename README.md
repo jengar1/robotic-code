@@ -1,5 +1,5 @@
 # robotic-code
-scripted code embedded to MATLAB
+this will be a beginner rough scripted code that will then be embedded to MATLAB
 sensors will have t coded seperatley due to the linking of the robot
 src will be used to link files together
 conversion to matlab may be different
