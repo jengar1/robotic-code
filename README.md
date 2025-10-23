@@ -1,7 +1,7 @@
 # robotic-code
 this will be a beginner rough scripted code that will then be embedded to MATLAB
-sensors will have t coded seperatley due to the linking of the robot
-src will be used to link files together
+sensors will have to be coded seperatley due to the linking of the robot.
+src will be used to link files together (each part of the robot will be coded seperatly and then linked later on)
 conversion to matlab may be different
 developer languages c++, java,python, possible javascript 
 currently doing research on robotic links
